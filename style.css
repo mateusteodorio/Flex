@@ -55,7 +55,7 @@ h3,h4,h2,h1{
 .Questione{
 display: flex;
 flex-wrap: wrap;
-justify-content: space-around;
+justify-content: space-between;
 background-color: rgb(94, 104, 104);
 border: 2px solid rgb(0, 0, 0);
 border-radius: 30px ;
