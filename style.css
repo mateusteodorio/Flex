@@ -38,3 +38,26 @@ h3,h4,h2,h1{
     flex-direction: column;
     color: rgb(255, 255, 255);
 }
+.Questions{
+
+    background-color: rgb(163, 163, 163);
+    width: 500px;
+    height: 300px;
+    margin: 10px;
+    padding: 15px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 8px ;
+    color: white;
+    
+    
+    
+}
+.Questione{
+    width: 2500px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+background-color: rgb(94, 104, 104);
+border: 2px solid rgb(0, 0, 0);
+border-radius: 30px ;
+}
