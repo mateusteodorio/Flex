@@ -1,0 +1,39 @@
+.text{
+    width: 1200px;
+    height: 800px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 8px ;
+    background-color: rgb(94, 104, 104);
+    margin: 15px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+.Imagem{
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 8px solid white;
+    width: 800px;
+    height: 650px;
+    
+
+}
+body{
+    background-color: black;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:large ;
+}
+h3,h4,h2,h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dentro{
+    width: 800;
+    height: 500;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+}
