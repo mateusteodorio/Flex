@@ -14,8 +14,8 @@
     display: flex;
     justify-content: flex-end;
     border-radius: 8px solid white;
-    width: 800px;
-    height: 650px;
+    width: 750px;
+    height: 700px;
     
 
 }
@@ -30,10 +30,11 @@ h3,h4,h2,h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .dentro{
-    width: 800;
+    width: 1000;
     height: 500;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: column;
+    color: rgb(255, 255, 255);
 }
