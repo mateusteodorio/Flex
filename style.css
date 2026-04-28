@@ -53,7 +53,6 @@ h3,h4,h2,h1{
     
 }
 .Questione{
-    width: 2500px;
 display: flex;
 flex-wrap: wrap;
 justify-content: space-around;
